@@ -1,3 +1,3 @@
 # new project
 This project was created from local system.
-created by teja sri
+created by teja sri.
